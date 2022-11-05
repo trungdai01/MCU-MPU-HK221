@@ -1,0 +1,2 @@
+../Core/Src/fsm_button_manual.c:10:6:modifyButton	8	static
+../Core/Src/fsm_button_manual.c:41:6:fsm_simple_buttons_run	8	static

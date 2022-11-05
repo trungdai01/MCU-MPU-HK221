@@ -1,0 +1,3 @@
+../Core/Src/timer_midterm.c:16:6:setTimer1	16	static
+../Core/Src/timer_midterm.c:22:6:setTimer2	16	static
+../Core/Src/timer_midterm.c:28:6:runTimer	4	static
